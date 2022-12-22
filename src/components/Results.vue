@@ -20,7 +20,7 @@ export default {
     } else if (this.score < 400) {
       this.rank = 'Rapid Reflexes';
     } else {
-      this.ranl = 'Slow poke';
+      this.rank = 'Slow poke';
     }
   },
 };
